@@ -2,6 +2,10 @@
 
 { "url": "https://weiaiya1314.github.io/shishi/小米/api.json", "name": "小米" },
 
+{ "url": "https://weiaiya1314.github.io/shishi/ah/ah.json", "name": "ah" },
+
+{ "url": "https://weiaiya1314.github.io/shishi/vip4k/vip4k.json", "name": "vip4k" },
+
 { "url": "https://weiaiya1314.github.io/shishi/肥猫/api.json", "name": "肥猫" },
 
 { "url": "https://weiaiya1314.github.io/shishi/香雅情XYQ/api.json", "name": "香雅情XYQ" },
