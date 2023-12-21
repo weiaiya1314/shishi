@@ -1,23 +1,23 @@
-{ "urls": [{ "url": "/tvboxqq/饭太硬/api.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://weiaiya1314.github.io/shishi/饭太硬/api.json", "name": "饭太硬" },
 
-{ "url": "/tvboxqq/小米/api.json", "name": "小米" },
+{ "url": "https://weiaiya1314.github.io/shishi/小米/api.json", "name": "小米" },
 
-{ "url": "/tvboxqq/肥猫/api.json", "name": "肥猫" },
+{ "url": "https://weiaiya1314.github.io/shishi/肥猫/api.json", "name": "肥猫" },
 
-{ "url": "/tvboxqq/香雅情XYQ/api.json", "name": "香雅情XYQ" },
+{ "url": "https://weiaiya1314.github.io/shishi/香雅情XYQ/api.json", "name": "香雅情XYQ" },
 
-{ "url": "/tvboxqq/道长JS/api.json", "name": "道长JS" },
+{ "url": "https://weiaiya1314.github.io/shishi/道长JS/api.json", "name": "道长JS" },
 
-{ "url": "/tvboxqq/菜妮丝/api.json", "name": "菜妮丝" },
+{ "url": "https://weiaiya1314.github.io/shishi/菜妮丝/api.json", "name": "菜妮丝" },
 
-{ "url": "/tvboxqq/南风/api.json", "name": "南风" },
+{ "url": "https://weiaiya1314.github.io/shishi/南风/api.json", "name": "南风" },
 
-{ "url": "/tvboxqq/骚零/api.json", "name": "骚零" },
+{ "url": "https://weiaiya1314.github.io/shishi/骚零/api.json", "name": "骚零" },
 
-{ "url": "/tvboxqq/荷城茶秀/api.json", "name": "荷城茶秀" },
+{ "url": "https://weiaiya1314.github.io/shishi/荷城茶秀/api.json", "name": "荷城茶秀" },
 
-{ "url": "/tvboxqq/短剧频道/api.json", "name": "短剧频道" },
+{ "url": "https://weiaiya1314.github.io/shishi/短剧频道/api.json", "name": "短剧频道" },
 
-{ "url": "/tvboxqq/少儿频道/api.json", "name": "少儿频道" },
+{ "url": "https://weiaiya1314.github.io/shishi/少儿频道/api.json", "name": "少儿频道" },
 
-{ "url": "/tvboxqq/动漫频道/api.json", "name": "动漫频道" }]}
+{ "url": "https://weiaiya1314.github.io/shishi/动漫频道/api.json", "name": "动漫频道" }]}
